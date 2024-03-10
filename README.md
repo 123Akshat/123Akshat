@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123akshat&label=Profile%20views&color=0e75b6&style=flat" alt="123akshat" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://github.com/123Akshat/Akshat-Saxena/assets/103346687/fe416f60-4b1e-4458-a541-5560f7704727">
+<img align="right" height="250" width="375" alt="" src="https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/coding.gif" />
+
+
 
 - 🌱 I’m currently learning **JavaScript and React.js**
 
